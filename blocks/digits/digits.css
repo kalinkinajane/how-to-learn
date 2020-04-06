@@ -1,0 +1,17 @@
+@import url(./section-title/section-title.css);
+@import url(./section-title/_theme/section-title_theme_dark.css);
+@import url(./section-subtitle/section-subtitle.css);
+@import url(./table/table.css);
+@import url(./table/_theme/table_theme_dark.css);
+@import url(./table/__cell/table__cell.css);
+@import url(./table/__cell/_theme/tabel__cell_theme_dark.css);
+@import url(./table/__heading/table__heading.css);
+@import url(./table/__heading/_theme/tabele__heading_theme_dark.css);
+@import url(./table/__text/table__text.css);
+@import url(./table/__text/_theme/table__text__theme_dark.css);
+
+.digits {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
