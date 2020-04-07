@@ -5,7 +5,7 @@
 .feinman {
     padding-top: 80px;
     height: 790px;
-    background-image: url(/images/feinman.png);
+    background-image: url(../../images/feinman.png);
     background-size: 867px 637px;
     background-repeat: no-repeat;
     background-position: bottom left;
